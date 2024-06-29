@@ -1,3 +1,6 @@
+
+<img src="C:\Users\Rodrigo\Code\js-curso-2\img\imagem-github.jpg">
+
 Jogo do Número Secreto
 
 Bem-vindo ao Jogo do Número Secreto! Este é um projeto simples em JavaScript onde o objetivo é adivinhar um número secreto de 1 a 10.
