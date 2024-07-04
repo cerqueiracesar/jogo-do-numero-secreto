@@ -36,6 +36,6 @@ Contribuições são bem-vindas! Sinta-se à vontade para fazer um fork do proje
 
 <h2>Licença</h2>
 
-Este projeto está licenciado sob a licença MIT.
+Este jogo é um projeto das aulas da Alura de programação.
 
 Divirta-se jogando e programando! 😊
